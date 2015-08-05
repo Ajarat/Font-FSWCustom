@@ -10,7 +10,7 @@ preprocessor_path: ""
 autowidth: true
 no_hash: false
 force: false
-debug: false
+debug: true
 quiet: false
 
 

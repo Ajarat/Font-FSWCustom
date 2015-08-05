@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "e73fadd36d1269e2f3c8410ddaa0cd208b52c425a86bd723e95edf10ebbef159",
-    "current": "e73fadd36d1269e2f3c8410ddaa0cd208b52c425a86bd723e95edf10ebbef159"
+    "previous": "585ab1967a026a806236b8dcd025eebe00b35c970c605f1c1cd4034d80359938",
+    "current": "585ab1967a026a806236b8dcd025eebe00b35c970c605f1c1cd4034d80359938"
   },
   "fonts": [
-    "src/fonts/fswcustom_e73fadd36d1269e2f3c8410ddaa0cd20.ttf",
-    "src/fonts/fswcustom_e73fadd36d1269e2f3c8410ddaa0cd20.svg",
-    "src/fonts/fswcustom_e73fadd36d1269e2f3c8410ddaa0cd20.woff",
-    "src/fonts/fswcustom_e73fadd36d1269e2f3c8410ddaa0cd20.eot"
+    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.ttf",
+    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.svg",
+    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.woff",
+    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -42,13 +42,25 @@
       "codepoint": 61703,
       "source": "svg/ban.svg"
     },
+    "bar-chart": {
+      "codepoint": 61793,
+      "source": "svg/bar-chart.svg"
+    },
     "beer": {
       "codepoint": 61704,
       "source": "svg/beer.svg"
     },
+    "bolt": {
+      "codepoint": 61785,
+      "source": "svg/bolt.svg"
+    },
     "book": {
       "codepoint": 61705,
       "source": "svg/book.svg"
+    },
+    "building-o": {
+      "codepoint": 61786,
+      "source": "svg/building-o.svg"
     },
     "camera": {
       "codepoint": 61706,
@@ -182,6 +194,10 @@
       "codepoint": 61738,
       "source": "svg/facebook.svg"
     },
+    "fire": {
+      "codepoint": 61787,
+      "source": "svg/fire.svg"
+    },
     "fsw": {
       "codepoint": 61739,
       "source": "svg/fsw.svg"
@@ -250,6 +266,10 @@
       "codepoint": 61755,
       "source": "svg/minus-square.svg"
     },
+    "newspaper-o": {
+      "codepoint": 61788,
+      "source": "svg/newspaper-o.svg"
+    },
     "phone": {
       "codepoint": 61756,
       "source": "svg/phone.svg"
@@ -278,6 +298,10 @@
       "codepoint": 61762,
       "source": "svg/plus-square.svg"
     },
+    "print": {
+      "codepoint": 61789,
+      "source": "svg/print.svg"
+    },
     "question": {
       "codepoint": 61763,
       "source": "svg/question.svg"
@@ -298,9 +322,17 @@
       "codepoint": 61767,
       "source": "svg/search.svg"
     },
+    "search-plus": {
+      "codepoint": 61790,
+      "source": "svg/search-plus.svg"
+    },
     "send": {
       "codepoint": 61768,
       "source": "svg/send.svg"
+    },
+    "share": {
+      "codepoint": 61791,
+      "source": "svg/share.svg"
     },
     "shopping-cart": {
       "codepoint": 61769,
@@ -333,6 +365,10 @@
     "tag": {
       "codepoint": 61776,
       "source": "svg/tag.svg"
+    },
+    "thumbs-up-o": {
+      "codepoint": 61792,
+      "source": "svg/thumbs-up-o.svg"
     },
     "train": {
       "codepoint": 61777,
@@ -371,7 +407,7 @@
     "autowidth": true,
     "config": "fontcustom.yml",
     "css_selector": ".icon-{{glyph}}",
-    "debug": false,
+    "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 16,
