@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "585ab1967a026a806236b8dcd025eebe00b35c970c605f1c1cd4034d80359938",
-    "current": "585ab1967a026a806236b8dcd025eebe00b35c970c605f1c1cd4034d80359938"
+    "previous": "407dc94e32bfe7059ddf6e65977ac983c1bb6d64249d53fbe0bbeb48e39a3bd6",
+    "current": "407dc94e32bfe7059ddf6e65977ac983c1bb6d64249d53fbe0bbeb48e39a3bd6"
   },
   "fonts": [
-    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.ttf",
-    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.svg",
-    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.woff",
-    "src/fonts/fswcustom_585ab1967a026a806236b8dcd025eebe.eot"
+    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.ttf",
+    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.svg",
+    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.woff",
+    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -165,10 +165,6 @@
     "cutlery": {
       "codepoint": 61731,
       "source": "svg/cutlery.svg"
-    },
-    "direct": {
-      "codepoint": 61732,
-      "source": "svg/direct.svg"
     },
     "edit": {
       "codepoint": 61733,
@@ -333,6 +329,14 @@
     "share": {
       "codepoint": 61791,
       "source": "svg/share.svg"
+    },
+    "shipping-freeship": {
+      "codepoint": 61794,
+      "source": "svg/shipping-freeship.svg"
+    },
+    "shipping-fswdirect": {
+      "codepoint": 61795,
+      "source": "svg/shipping-fswdirect.svg"
     },
     "shopping-cart": {
       "codepoint": 61769,
