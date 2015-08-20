@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "407dc94e32bfe7059ddf6e65977ac983c1bb6d64249d53fbe0bbeb48e39a3bd6",
-    "current": "407dc94e32bfe7059ddf6e65977ac983c1bb6d64249d53fbe0bbeb48e39a3bd6"
+    "previous": "96a458501de28a54e559c9b404a6e5a96572732151937c218b6f7bd7ccc31888",
+    "current": "96a458501de28a54e559c9b404a6e5a96572732151937c218b6f7bd7ccc31888"
   },
   "fonts": [
-    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.ttf",
-    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.svg",
-    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.woff",
-    "src/fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.eot"
+    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.ttf",
+    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.svg",
+    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.woff",
+    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -182,6 +182,10 @@
       "codepoint": 61736,
       "source": "svg/envelope-square.svg"
     },
+    "exchange": {
+      "codepoint": 61796,
+      "source": "svg/exchange.svg"
+    },
     "exclamation-circle": {
       "codepoint": 61737,
       "source": "svg/exclamation-circle.svg"
@@ -350,6 +354,10 @@
       "codepoint": 61771,
       "source": "svg/smile-o.svg"
     },
+    "spec-sheet": {
+      "codepoint": 61797,
+      "source": "svg/spec-sheet.svg"
+    },
     "spinner": {
       "codepoint": 61772,
       "source": "svg/spinner.svg"
@@ -366,9 +374,21 @@
       "codepoint": 61775,
       "source": "svg/star-half-empty.svg"
     },
+    "sun-o": {
+      "codepoint": 61798,
+      "source": "svg/sun-o.svg"
+    },
     "tag": {
       "codepoint": 61776,
       "source": "svg/tag.svg"
+    },
+    "th-grid": {
+      "codepoint": 61799,
+      "source": "svg/th-grid.svg"
+    },
+    "th-list": {
+      "codepoint": 61800,
+      "source": "svg/th-list.svg"
     },
     "thumbs-up-o": {
       "codepoint": 61792,
@@ -397,6 +417,10 @@
     "user": {
       "codepoint": 61782,
       "source": "svg/user.svg"
+    },
+    "warranty": {
+      "codepoint": 61801,
+      "source": "svg/warranty.svg"
     },
     "wrench": {
       "codepoint": 61783,

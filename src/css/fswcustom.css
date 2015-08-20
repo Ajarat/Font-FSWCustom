@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fswcustom";
-  src: url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.eot");
-  src: url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.woff") format("woff"),
-       url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.ttf") format("truetype"),
-       url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.svg#fswcustom") format("svg");
+  src: url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.eot");
+  src: url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.woff") format("woff"),
+       url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.ttf") format("truetype"),
+       url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.svg#fswcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fswcustom";
-    src: url("../fonts/fswcustom_407dc94e32bfe7059ddf6e65977ac983.svg#fswcustom") format("svg");
+    src: url("../fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.svg#fswcustom") format("svg");
   }
 }
 
@@ -66,6 +66,7 @@
 .icon-envelope:before,
 .icon-envelope-o:before,
 .icon-envelope-square:before,
+.icon-exchange:before,
 .icon-exclamation-circle:before,
 .icon-facebook:before,
 .icon-fire:before,
@@ -108,11 +109,15 @@
 .icon-shopping-cart:before,
 .icon-signout:before,
 .icon-smile-o:before,
+.icon-spec-sheet:before,
 .icon-spinner:before,
 .icon-star:before,
 .icon-star-empty:before,
 .icon-star-half-empty:before,
+.icon-sun-o:before,
 .icon-tag:before,
+.icon-th-grid:before,
+.icon-th-list:before,
 .icon-thumbs-up-o:before,
 .icon-train:before,
 .icon-trash-o:before,
@@ -120,6 +125,7 @@
 .icon-twitter:before,
 .icon-usd:before,
 .icon-user:before,
+.icon-warranty:before,
 .icon-wrench:before,
 .icon-youtube:before {
   display: inline-block;
@@ -179,6 +185,7 @@
 .icon-envelope:before { content: "\f126"; }
 .icon-envelope-o:before { content: "\f127"; }
 .icon-envelope-square:before { content: "\f128"; }
+.icon-exchange:before { content: "\f164"; }
 .icon-exclamation-circle:before { content: "\f129"; }
 .icon-facebook:before { content: "\f12a"; }
 .icon-fire:before { content: "\f15b"; }
@@ -221,11 +228,15 @@
 .icon-shopping-cart:before { content: "\f149"; }
 .icon-signout:before { content: "\f14a"; }
 .icon-smile-o:before { content: "\f14b"; }
+.icon-spec-sheet:before { content: "\f165"; }
 .icon-spinner:before { content: "\f14c"; }
 .icon-star:before { content: "\f14d"; }
 .icon-star-empty:before { content: "\f14e"; }
 .icon-star-half-empty:before { content: "\f14f"; }
+.icon-sun-o:before { content: "\f166"; }
 .icon-tag:before { content: "\f150"; }
+.icon-th-grid:before { content: "\f167"; }
+.icon-th-list:before { content: "\f168"; }
 .icon-thumbs-up-o:before { content: "\f160"; }
 .icon-train:before { content: "\f151"; }
 .icon-trash-o:before { content: "\f152"; }
@@ -233,5 +244,6 @@
 .icon-twitter:before { content: "\f154"; }
 .icon-usd:before { content: "\f155"; }
 .icon-user:before { content: "\f156"; }
+.icon-warranty:before { content: "\f169"; }
 .icon-wrench:before { content: "\f157"; }
 .icon-youtube:before { content: "\f158"; }
