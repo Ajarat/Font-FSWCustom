@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "96a458501de28a54e559c9b404a6e5a96572732151937c218b6f7bd7ccc31888",
-    "current": "96a458501de28a54e559c9b404a6e5a96572732151937c218b6f7bd7ccc31888"
+    "previous": "0429e890c9b9930a35aa65637e7f85dd652ea40796ce3842b51fdc34705e4e75",
+    "current": "0429e890c9b9930a35aa65637e7f85dd652ea40796ce3842b51fdc34705e4e75"
   },
   "fonts": [
-    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.ttf",
-    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.svg",
-    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.woff",
-    "src/fonts/fswcustom_96a458501de28a54e559c9b404a6e5a9.eot"
+    "src/fonts/fswcustom_0429e890c9b9930a35aa65637e7f85dd.ttf",
+    "src/fonts/fswcustom_0429e890c9b9930a35aa65637e7f85dd.svg",
+    "src/fonts/fswcustom_0429e890c9b9930a35aa65637e7f85dd.woff",
+    "src/fonts/fswcustom_0429e890c9b9930a35aa65637e7f85dd.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -189,6 +189,10 @@
     "exclamation-circle": {
       "codepoint": 61737,
       "source": "svg/exclamation-circle.svg"
+    },
+    "eye": {
+      "codepoint": 61802,
+      "source": "svg/eye.svg"
     },
     "facebook": {
       "codepoint": 61738,
