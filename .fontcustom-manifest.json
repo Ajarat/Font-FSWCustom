@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "74d45fb02a18c6c1befbc210d37ed808911124626b5d1e1cb8993a70a5f4e538",
-    "current": "74d45fb02a18c6c1befbc210d37ed808911124626b5d1e1cb8993a70a5f4e538"
+    "previous": "5b31ac6c27377451f7935ec6b90325b5dda7545f284ac74c832862d73e9a4d44",
+    "current": "5b31ac6c27377451f7935ec6b90325b5dda7545f284ac74c832862d73e9a4d44"
   },
   "fonts": [
-    "src/fonts/fswcustom_74d45fb02a18c6c1befbc210d37ed808.ttf",
-    "src/fonts/fswcustom_74d45fb02a18c6c1befbc210d37ed808.svg",
-    "src/fonts/fswcustom_74d45fb02a18c6c1befbc210d37ed808.woff",
-    "src/fonts/fswcustom_74d45fb02a18c6c1befbc210d37ed808.eot"
+    "src/fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.ttf",
+    "src/fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.svg",
+    "src/fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.woff",
+    "src/fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -169,6 +169,10 @@
     "cutlery": {
       "codepoint": 61731,
       "source": "svg/cutlery.svg"
+    },
+    "double-chevron-circle-left": {
+      "codepoint": 61805,
+      "source": "svg/double-chevron-circle-left.svg"
     },
     "edit": {
       "codepoint": 61733,
