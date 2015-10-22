@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fswcustom";
-  src: url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.eot");
-  src: url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.woff") format("woff"),
-       url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.ttf") format("truetype"),
-       url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.svg#fswcustom") format("svg");
+  src: url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.eot");
+  src: url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.woff") format("woff"),
+       url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.ttf") format("truetype"),
+       url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.svg#fswcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fswcustom";
-    src: url("../fonts/fswcustom_5b31ac6c27377451f7935ec6b90325b5.svg#fswcustom") format("svg");
+    src: url("../fonts/fswcustom_15b5bfb8400b5a0a5120b7340b43cd59.svg#fswcustom") format("svg");
   }
 }
 
@@ -90,6 +90,7 @@
 .icon-minus:before,
 .icon-minus-circle:before,
 .icon-minus-square:before,
+.icon-new-window:before,
 .icon-newspaper-o:before,
 .icon-phone:before,
 .icon-pinterest:before,
@@ -213,6 +214,7 @@
 .icon-minus:before { content: "\f139"; }
 .icon-minus-circle:before { content: "\f13a"; }
 .icon-minus-square:before { content: "\f13b"; }
+.icon-new-window:before { content: "\f16e"; }
 .icon-newspaper-o:before { content: "\f15c"; }
 .icon-phone:before { content: "\f13c"; }
 .icon-pinterest:before { content: "\f13d"; }
