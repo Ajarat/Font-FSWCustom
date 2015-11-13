@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "2e96ab043c8ec8474d9db95202cc07a635d5d8055e74ea781c25180e1d8741a2",
-    "current": "2e96ab043c8ec8474d9db95202cc07a635d5d8055e74ea781c25180e1d8741a2"
+    "previous": "f0028b82ce17cc3ee11bfb3944a27775df22e1113adcc7411eb6f9651ce5e05f",
+    "current": "f0028b82ce17cc3ee11bfb3944a27775df22e1113adcc7411eb6f9651ce5e05f"
   },
   "fonts": [
-    "src/fonts/fswcustom_2e96ab043c8ec8474d9db95202cc07a6.ttf",
-    "src/fonts/fswcustom_2e96ab043c8ec8474d9db95202cc07a6.svg",
-    "src/fonts/fswcustom_2e96ab043c8ec8474d9db95202cc07a6.woff",
-    "src/fonts/fswcustom_2e96ab043c8ec8474d9db95202cc07a6.eot"
+    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.ttf",
+    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.svg",
+    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.woff",
+    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -77,6 +77,10 @@
     "cap": {
       "codepoint": 61707,
       "source": "svg/cap.svg"
+    },
+    "caret-circle-right": {
+      "codepoint": 61808,
+      "source": "svg/caret-circle-right.svg"
     },
     "caret-down": {
       "codepoint": 61708,
