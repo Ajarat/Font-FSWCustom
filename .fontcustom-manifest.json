@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "f0028b82ce17cc3ee11bfb3944a27775df22e1113adcc7411eb6f9651ce5e05f",
-    "current": "f0028b82ce17cc3ee11bfb3944a27775df22e1113adcc7411eb6f9651ce5e05f"
+    "previous": "1fa2e028652be7c4349630dccbf4b204d21270c77f51e4ffe9df47192a3a5d87",
+    "current": "1fa2e028652be7c4349630dccbf4b204d21270c77f51e4ffe9df47192a3a5d87"
   },
   "fonts": [
-    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.ttf",
-    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.svg",
-    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.woff",
-    "src/fonts/fswcustom_f0028b82ce17cc3ee11bfb3944a27775.eot"
+    "src/fonts/fswcustom_1fa2e028652be7c4349630dccbf4b204.ttf",
+    "src/fonts/fswcustom_1fa2e028652be7c4349630dccbf4b204.svg",
+    "src/fonts/fswcustom_1fa2e028652be7c4349630dccbf4b204.woff",
+    "src/fonts/fswcustom_1fa2e028652be7c4349630dccbf4b204.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -217,6 +217,10 @@
     "fire": {
       "codepoint": 61787,
       "source": "svg/fire.svg"
+    },
+    "flip": {
+      "codepoint": 61809,
+      "source": "svg/flip.svg"
     },
     "fsw": {
       "codepoint": 61739,
