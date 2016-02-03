@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fswcustom";
-  src: url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.eot");
-  src: url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.woff") format("woff"),
-       url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.ttf") format("truetype"),
-       url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.svg#fswcustom") format("svg");
+  src: url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.eot");
+  src: url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.woff") format("woff"),
+       url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.ttf") format("truetype"),
+       url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.svg#fswcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fswcustom";
-    src: url("../fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.svg#fswcustom") format("svg");
+    src: url("../fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.svg#fswcustom") format("svg");
   }
 }
 
@@ -63,6 +63,7 @@
 .icon-comment:before,
 .icon-comments:before,
 .icon-comments-o:before,
+.icon-crayon:before,
 .icon-credit-card:before,
 .icon-cutlery:before,
 .icon-double-chevron-circle-left:before,
@@ -72,11 +73,13 @@
 .icon-envelope-square:before,
 .icon-exchange:before,
 .icon-exclamation-circle:before,
+.icon-expert:before,
 .icon-eye:before,
 .icon-facebook:before,
 .icon-fire:before,
 .icon-flip-left:before,
 .icon-flip-right:before,
+.icon-fridge:before,
 .icon-fsw:before,
 .icon-googleplus:before,
 .icon-group:before,
@@ -96,8 +99,10 @@
 .icon-minus-square:before,
 .icon-new-window:before,
 .icon-newspaper-o:before,
+.icon-pan:before,
 .icon-phone:before,
 .icon-pinterest:before,
+.icon-pizza:before,
 .icon-plane:before,
 .icon-play:before,
 .icon-plus:before,
@@ -191,6 +196,7 @@
 .icon-comment:before { content: "\f11f"; }
 .icon-comments:before { content: "\f120"; }
 .icon-comments-o:before { content: "\f121"; }
+.icon-crayon:before { content: "\f174"; }
 .icon-credit-card:before { content: "\f122"; }
 .icon-cutlery:before { content: "\f123"; }
 .icon-double-chevron-circle-left:before { content: "\f16d"; }
@@ -200,11 +206,13 @@
 .icon-envelope-square:before { content: "\f128"; }
 .icon-exchange:before { content: "\f164"; }
 .icon-exclamation-circle:before { content: "\f129"; }
+.icon-expert:before { content: "\f175"; }
 .icon-eye:before { content: "\f16a"; }
 .icon-facebook:before { content: "\f12a"; }
 .icon-fire:before { content: "\f15b"; }
 .icon-flip-left:before { content: "\f172"; }
 .icon-flip-right:before { content: "\f173"; }
+.icon-fridge:before { content: "\f176"; }
 .icon-fsw:before { content: "\f12b"; }
 .icon-googleplus:before { content: "\f12c"; }
 .icon-group:before { content: "\f12d"; }
@@ -224,8 +232,10 @@
 .icon-minus-square:before { content: "\f13b"; }
 .icon-new-window:before { content: "\f16e"; }
 .icon-newspaper-o:before { content: "\f15c"; }
+.icon-pan:before { content: "\f177"; }
 .icon-phone:before { content: "\f13c"; }
 .icon-pinterest:before { content: "\f13d"; }
+.icon-pizza:before { content: "\f178"; }
 .icon-plane:before { content: "\f13e"; }
 .icon-play:before { content: "\f13f"; }
 .icon-plus:before { content: "\f140"; }

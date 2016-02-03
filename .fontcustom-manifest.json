@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "2b5b83e501014d490c8d12c57b4156cde893aa2d81796db579924b60c0e7c93c",
-    "current": "2b5b83e501014d490c8d12c57b4156cde893aa2d81796db579924b60c0e7c93c"
+    "previous": "cc3371f3deb165e6d1e95937240cfe8b7db7af90aee3b3189e5add1ba51f60cb",
+    "current": "cc3371f3deb165e6d1e95937240cfe8b7db7af90aee3b3189e5add1ba51f60cb"
   },
   "fonts": [
-    "src/fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.ttf",
-    "src/fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.svg",
-    "src/fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.woff",
-    "src/fonts/fswcustom_2b5b83e501014d490c8d12c57b4156cd.eot"
+    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.ttf",
+    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.svg",
+    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.woff",
+    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -170,6 +170,10 @@
       "codepoint": 61729,
       "source": "svg/comments-o.svg"
     },
+    "crayon": {
+      "codepoint": 61812,
+      "source": "svg/crayon.svg"
+    },
     "credit-card": {
       "codepoint": 61730,
       "source": "svg/credit-card.svg"
@@ -206,6 +210,10 @@
       "codepoint": 61737,
       "source": "svg/exclamation-circle.svg"
     },
+    "expert": {
+      "codepoint": 61813,
+      "source": "svg/expert.svg"
+    },
     "eye": {
       "codepoint": 61802,
       "source": "svg/eye.svg"
@@ -225,6 +233,10 @@
     "flip-right": {
       "codepoint": 61811,
       "source": "svg/flip-right.svg"
+    },
+    "fridge": {
+      "codepoint": 61814,
+      "source": "svg/fridge.svg"
     },
     "fsw": {
       "codepoint": 61739,
@@ -302,6 +314,10 @@
       "codepoint": 61788,
       "source": "svg/newspaper-o.svg"
     },
+    "pan": {
+      "codepoint": 61815,
+      "source": "svg/pan.svg"
+    },
     "phone": {
       "codepoint": 61756,
       "source": "svg/phone.svg"
@@ -309,6 +325,10 @@
     "pinterest": {
       "codepoint": 61757,
       "source": "svg/pinterest.svg"
+    },
+    "pizza": {
+      "codepoint": 61816,
+      "source": "svg/pizza.svg"
     },
     "plane": {
       "codepoint": 61758,
