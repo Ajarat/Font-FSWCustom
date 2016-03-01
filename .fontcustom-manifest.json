@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "cc3371f3deb165e6d1e95937240cfe8b7db7af90aee3b3189e5add1ba51f60cb",
-    "current": "cc3371f3deb165e6d1e95937240cfe8b7db7af90aee3b3189e5add1ba51f60cb"
+    "previous": "b84c45bb45edffaabf9a52b75cbbc4a46b078b86fc369b97a3935d4e7c52883d",
+    "current": "b84c45bb45edffaabf9a52b75cbbc4a46b078b86fc369b97a3935d4e7c52883d"
   },
   "fonts": [
-    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.ttf",
-    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.svg",
-    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.woff",
-    "src/fonts/fswcustom_cc3371f3deb165e6d1e95937240cfe8b.eot"
+    "src/fonts/fswcustom_b84c45bb45edffaabf9a52b75cbbc4a4.ttf",
+    "src/fonts/fswcustom_b84c45bb45edffaabf9a52b75cbbc4a4.svg",
+    "src/fonts/fswcustom_b84c45bb45edffaabf9a52b75cbbc4a4.woff",
+    "src/fonts/fswcustom_b84c45bb45edffaabf9a52b75cbbc4a4.eot"
   ],
   "glyphs": {
     "area-chart": {
@@ -153,6 +153,10 @@
     "close-circle": {
       "codepoint": 61725,
       "source": "svg/close-circle.svg"
+    },
+    "close-o": {
+      "codepoint": 61817,
+      "source": "svg/close-o.svg"
     },
     "cog": {
       "codepoint": 61726,
